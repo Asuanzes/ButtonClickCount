@@ -20,6 +20,11 @@ public class MainActivity extends Activity {
 	 * Cambiando 3 líneas de comentario
 	 * 12:45 h
 	 */
+	
+	/*
+	 * Solucionando nuevo problema en rama HotFix
+	 * 
+	 */
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
