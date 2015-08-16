@@ -13,6 +13,11 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
+	/*
+	 * Prueba GitHub Shell
+	 * Cambiando 3 líneas de comentario
+	 * 12:45 h
+	 */
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
