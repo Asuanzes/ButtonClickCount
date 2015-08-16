@@ -9,7 +9,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
        /*
        	* Comentario realizado en GitHub
-	*/
+	    */
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -17,8 +17,13 @@ public class MainActivity extends Activity {
 	}
 	/*
 	 * Prueba GitHub Shell
-	 * Cambiando 3 líneas de comentario
-	 * 12:45 h
+	 * Borrando comentarios en la rama iss53
+	 * 13:22 h
+	 */
+	
+	/*
+	 * Cambios despues de crear/eliminar rama hotfix
+	 * Guardando y combinando iss53 con master
 	 */
 	
 	/*
