@@ -20,6 +20,11 @@ public class MainActivity extends Activity {
 	 * Borrando comentarios en la rama iss53
 	 * 13:22 h
 	 */
+	
+	/*
+	 * Cambios despues de crear/eliminar rama hotfix
+	 * Guardando y combinando iss53 con master
+	 */
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
